@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><StudentList>
+    <Student>
+        <Name>Vera</Name>
+        <SecondName>Frolova</SecondName>
+        <Age>20</Age>
+        <Cource>3</Cource>
+        <Cost currency="RYB">499</Cost>
+    </Student>
+    <Student>
+        <Name>Ivan</Name>
+        <SecondName>Orlick</SecondName>
+        <Age>20</Age>
+        <Cource>3</Cource>
+        <Cost currency="RYB">499</Cost>
+    </Student>
+<Student><Name>Veronika</Name><SecondName>Bogdanovich</SecondName><Age>20</Age><Cource>3</Cource><Cost currency="RUB">499</Cost></Student></StudentList>
